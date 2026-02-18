@@ -1,117 +1,66 @@
-<h1 align="center">Dev Ansodariya</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Distributed+Systems;Backend+Engineering+%7C+Concurrency+%7C+Cloud;Designing+Scalable+Multi-Process+Architectures;Graduate+Software+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Dev%20Ansodariya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>C++ • Python • Distributed Systems • Cloud-Native Infrastructure</b>
-</p>
-
----
-
-## System-Oriented Engineering
-
-Graduate Software Engineering student focused on:
-
-- Distributed process coordination  
-- Concurrency & manual control-flow management  
-- Multi-machine deployments  
-- Performance measurement & fairness testing  
-- Scalable backend architecture  
-
-I build systems that emphasize **correctness, structure, and reliability over surface complexity.**
-
----
-
-## Highlighted Architecture Work
-
-### Distributed Multi-Process System (C++ / Python / gRPC)
-
-A structured 6-node distributed architecture featuring:
-
-- Fixed overlay topology
-- Inter-process gRPC communication
-- Manual concurrency (threads, queues, timers)
-- Dual chunking strategies (client paging & session streaming)
-- Multi-machine deployment support
-- Performance + memory measurement instrumentation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev228-afk/mini-2/main/docs/architecture.png" width="700"/>
-</p>
-
-Repository:  
-https://github.com/Dev228-afk/mini-2
-
----
-
-### CodeGuardian — Multi-Agent Code Review System
-
-A structured agent-based review engine designed to simulate production workflows:
-
-- Planner → Reviewer → Security → Policy agents
-- Retrieval-Augmented rule enforcement
-- PR-triggered evaluation pipeline
-- Containerized deployment
-
-(Repository in progress)
-
----
-
-## Currently Building
-
-- Advanced distributed request routing patterns  
-- Agentic systems with structured control flow  
-- Performance benchmarking frameworks  
-- Production-style system documentation practices  
-
----
-
-## Technical Foundations
-
-**Languages**  
-C++, Python, JavaScript
-
-**Distributed & Backend**  
-gRPC, multi-process systems, concurrency control
-
-**Cloud & Infrastructure**  
-Docker, Kubernetes, AWS, GCP
-
-**Data**  
-PostgreSQL, MongoDB
-
----
-
-## Engineering Philosophy
-
-> Systems should be understandable before they are clever.  
-> Reliability scales better than complexity.
-
----
-
-## Selected Repositories
-
-- 🔹 Distributed Systems (C++ / gRPC)  
-- 🔹 Multi-Agent AI Systems  
-- 🔹 Cloud-Deployed Backend Applications  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev228-afk&show_icons=true&hide_border=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev228-afk&layout=compact&hide_border=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev228-afk&theme=github-dark&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=9CDCFE&center=true&vCenter=true&width=700&lines=Engineering+scalable+systems;Designing+clean+architectures;Backend+%7C+Cloud+%7C+Distributed+Thinking;Graduate+Software+Engineer" />
 </p>
 
 ---
 
-## Contact
+## About
 
-San Jose, CA  
-devansodariya55555@gmail.com  
-LinkedIn: https://linkedin.com/in/dev-ansodariya
+I’m a graduate software engineer focused on building **well-structured, scalable systems**.
+
+I’m particularly interested in:
+
+- System design & architecture
+- Backend engineering
+- Cloud-native infrastructure
+- Reliability & performance
+- Agent-driven and intelligent systems
+
+I value clarity in design, strong fundamentals, and thoughtful engineering over surface-level complexity.
+
+---
+
+
+## Technical Landscape
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,aws,gcp,docker,kubernetes,postgres,mongodb,react,nodejs,linux&theme=dark" />
+
+</p>
+
+---
+
+## Currently Exploring
+
+- Advanced system design patterns  
+- Scalable request handling & coordination  
+- Distributed data workflows  
+- Intelligent multi-component systems  
+
+---
+
+
+## Philosophy
+
+> Build systems that are understandable, reliable, and designed to scale —  
+> not just to run.
+
+---
+
+<p align="center">
+  <a href="mailto:devansodariya55555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=24292e"/>
+  </a>
+  <a href="https://linkedin.com/in/dev-ansodariya">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=24292e"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+</p>
