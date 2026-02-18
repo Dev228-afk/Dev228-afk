@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>C++ • Python • Distributed Systems • gRPC • Cloud-Native Infrastructure</b>
+  <b>C++ • Python • Distributed Systems • Cloud-Native Infrastructure</b>
 </p>
 
 ---
